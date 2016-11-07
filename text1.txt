@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Status:
 -Temperature
 -Rotation
 -Speed
+=======
+
+Requests:
+-run
+-stop
+-get
+-set
+>>>>>>> branch_requests
