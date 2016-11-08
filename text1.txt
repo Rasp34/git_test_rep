@@ -4,3 +4,4 @@ Requests:
 -stop
 -get
 -set
+-update
